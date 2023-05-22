@@ -30,7 +30,7 @@ Atrributes of the data
 Inference
 ----------
 
-#Results:-
+
 **for LinearRegression**
 
 Rmse =  4.22823975454173
@@ -74,4 +74,4 @@ Rmse cross val scores =
 Appropriate Model
 ------------------
 
-**RandomForestRegressor model** is the most accurate one in this case(as it is giving lowest rmse)
+***RandomForestRegressormodel*** is the most accurate one in this case(as it is giving lowest rmse)
