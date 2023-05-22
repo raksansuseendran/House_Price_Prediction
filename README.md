@@ -71,5 +71,7 @@ Rmse cross val scores =
  [2.87667815 2.90645052 4.44626112 2.62887072 3.43234611 2.54121222
  4.512502   3.27714691 3.44440933 3.21893902]
 
+Appropriate Model
+------------------
 
 **RandomForestRegressor model** is the most accurate one in this case(as it is giving lowest rmse)
