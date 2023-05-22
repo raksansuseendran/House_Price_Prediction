@@ -6,7 +6,7 @@ Project Description
 • The goal of this web application is to predict the price of the house by utilizing the relation between house 
 features and how these variables are affecting the target attribute. 
 
-• Implemented a model using the Random Forest algorithm in terms of minimizing the difference between 
+• Implemented a model using machine learning algorithms (regression algorithms) in terms of minimizing the difference between 
 predicted and actual price of the house.
 
 Atrributes of the data
